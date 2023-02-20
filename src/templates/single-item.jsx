@@ -30,7 +30,7 @@ export default (props) => {
             {name}
           </h1>
           <p className="text-base lg:text-lg text-blue-800 dark:text-blue-500 font-medium mb-4">
-            {summary}
+            {tags}
           </p>
           <div className="flex flex-wrap">
             <div className="w-full pb-4 lg:w-3/5 lg:pr-4 lg:pb-0">

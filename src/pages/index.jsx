@@ -7,7 +7,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <SiteMetadata
-        title="Travel destinations"
+        title="1Travel destinations"
         description="Check the most popular travel destinations in Europe."
         image={data.hero.url}
       />
@@ -15,7 +15,7 @@ export default ({ data }) => {
       <Hero
         image={data.hero}
         tag="#travel"
-        title="Travel destinations"
+        title="2Travel destinations"
         description="Check the most popular travel locations in Europe."
       />
 
